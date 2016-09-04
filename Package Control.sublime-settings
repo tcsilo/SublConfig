@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"LiveReload"
 	],
 	"installed_packages":
 	[
@@ -12,7 +13,6 @@
 		"Auto Semi-Colon",
 		"AutoFileName",
 		"Babel",
-		"Base16 Color Schemes",
 		"BracketHighlighter",
 		"Case Conversion",
 		"Color Highlighter",
@@ -34,7 +34,6 @@
 		"jQuery",
 		"JSCS-Formatter",
 		"JsFormat",
-		"LiveReload",
 		"LiveStyle",
 		"Modific",
 		"MoveText",
