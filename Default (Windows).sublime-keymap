@@ -1,3 +1,12 @@
-[
-	{"keys": ["control+shift+alt+c"], "command": "shell_prompt"}
-]
+[{
+	"keys": ["control+shift+alt+c"],
+	"command": "shell_prompt"
+},{
+	"keys": ["ctrl+shift+z"],
+	"command": "toggle_zoom_pane",
+	"args": {}
+},{
+	"keys": ["ctrl+shift+a"],
+	"command": "restore_layout",
+	"args": {}
+}]
